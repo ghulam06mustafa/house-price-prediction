@@ -1,10 +1,10 @@
-# 🏠 House Price Prediction App
+# House Price Prediction App
 
 This project is a machine learning–powered web application for predicting house prices based on structural and neighborhood-related features. Built using **Python**, **scikit-learn**, and **Streamlit**, it demonstrates the practical use of regression models in real estate analytics. Users can interact with a simple UI to get instant price estimates for residential properties.
 
 ---
 
-## 📌 Key Features
+## Key Features
 
 - Predict house prices based on:
   - Number of bedrooms
@@ -18,7 +18,7 @@ This project is a machine learning–powered web application for predicting hous
 
 ---
 
-## 🧠 Machine Learning Models Used
+## Machine Learning Models Used
 
 The following models were trained and compared:
 
@@ -28,7 +28,7 @@ The following models were trained and compared:
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 Model performance was measured using:
 
@@ -40,7 +40,7 @@ These metrics were used to select the best-performing model for deployment.
 
 ---
 
-## 🖥️ Streamlit Web App
+## Streamlit Web App
 
 Users can:
 - Input house details using sliders and number inputs
@@ -49,7 +49,7 @@ Users can:
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ```bash
 # Clone this repository
